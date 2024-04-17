@@ -4,5 +4,16 @@
   "artist": "Bryan Lee O' Malley",
   "author": "jan Tewan",
   "cover": "https://i.imgur.com/Pgn8W0w.jpeg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1713314948",
+      "groups": {
+        "ov52rFC": [
+          ""
+        ]
+      }
+    }
+  }
 }
